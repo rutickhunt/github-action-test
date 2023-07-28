@@ -1,0 +1,22 @@
+name: Ali
+age: 28
+address: "akash: khunt"
+action: true
+key:
+  key: value
+  key2: 33777
+  key3:
+    key: value
+    key2: value
+jsonObject: {key: value, key2: 33, key3: { key: value, key2: value }}
+array: 
+  - item1
+  - item2
+  - { key: value}
+jsonArray: [tem1, item2]
+objectsArray:
+  - key: value
+    key2: valu2
+  - key: value
+    key2: value2 
+longText: ghjgjhghjgjhgbjhghjgjuyfyfgyugygyugyu hbjhghjg hvjhgj
